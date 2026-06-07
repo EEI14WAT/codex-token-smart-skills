@@ -1,0 +1,4 @@
+interface:
+  display_name: "Token Smart Codex"
+  short_description: "Use compact workflows, scoped reading, and controlled execution for Codex tasks."
+  default_prompt: "$token-smart-codex 请用更省 token 但不降低质量的方式规划并执行这个任务。"
