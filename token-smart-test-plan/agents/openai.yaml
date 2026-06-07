@@ -1,0 +1,4 @@
+interface:
+  display_name: "Token Smart Test Plan"
+  short_description: "Plan a staged, low-cost test strategy before running validation."
+  default_prompt: "$token-smart-test-plan 接下来我要测试，请先给我一个分级测试方案，不要直接开始测试。"
