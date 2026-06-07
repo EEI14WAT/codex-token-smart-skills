@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Task Gate"
+  short_description: "Check task size, missing inputs, and environment risks before starting."
+  default_prompt: "$codex-task-gate 先判断这个任务的颗粒度、缺失材料和环境风险，不要直接开始执行。"
